@@ -11,15 +11,19 @@ w length ≤ 26
 n ≤ 26
 all letters are lowercase
 Example
-Input
+
+### Input
+```
 ibcdefghajklmnopqrstuvwxyz
 2
 papa
 papi
-Output
+```
+### Output
+```
 papi
 papa
-
+```
 ```ts
 /**
  * Auto-generated code below aims at helping you parse
